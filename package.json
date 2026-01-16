@@ -1,0 +1,11 @@
+{
+  "name": "actions-node-sample",
+  "version": "1.0.0",
+  "description": "Small Node.js project for GitHub Actions CI demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "author": "Slawomir Mendyka",
+  "license": "MIT"
+}
